@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="multithread:war exploded">
+    <output-path>$PROJECT_DIR$/target/multithread</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="multithread" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="H:\eclips4.5.2\multithread\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="multithread/web/Web" />
+    </root>
+  </artifact>
+</component>
